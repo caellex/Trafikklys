@@ -1,0 +1,32 @@
+#container {
+    position: absolute;
+    border: solid black 1px;
+    height: 420px;
+    width: 200px;
+    background: black
+}
+
+div.circleDiv {
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+div.red{
+    background-color: red;
+}
+div.yellow{
+background-color: yellow;
+}
+div.green{
+background-color: green;
+}
+
+
+
+.grayL{
+    background-color: gray;
+
+}
